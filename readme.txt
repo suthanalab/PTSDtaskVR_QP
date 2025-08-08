@@ -1,9 +1,13 @@
-PTSD_VR Project
-
+PTSD_VR Project    Unity version: 2021.3.13f1
 -------------------------------------------------------------
 config file is under Assets/StreamingAssets folder
 -------------------------------------------------------------
-
+		taskday controls task:
+        (1)  day 1 - habituation, acquisition and questions
+        rest
+        (1)  after rest - extinction and questions
+        (2)  day 2 - extinction and questions, habituation     
+		
 Usage Notes:
 
 PC:
