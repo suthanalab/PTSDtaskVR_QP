@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: ca0330ca0ffc3354da82cd478ca5551d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6291740032507791629
+    second: guiderArrow_0
+  - first:
+      213: -7892022440189495588
+    second: guiderArrow_1
+  - first:
+      213: -1294855329008245460
+    second: guiderArrow_2
+  - first:
+      213: -173911302743478331
+    second: guiderArrow_3
+  - first:
+      213: 5151353211200468151
+    second: guiderArrow_4
+  - first:
+      213: -7190322626880910740
+    second: guiderArrow_5
+  - first:
+      213: 779537716753284413
+    second: guiderArrow_6
+  - first:
+      213: 1127043450517170064
+    second: guiderArrow_7
+  - first:
+      213: -6326935694814326148
+    second: guiderArrow_8
+  - first:
+      213: 8553979105218819658
+    second: guiderArrow_9
+  - first:
+      213: -4746525037900572933
+    second: guiderArrow_10
+  - first:
+      213: 8723514672975551568
+    second: guiderArrow_0
+  - first:
+      213: 2923565490141889436
+    second: guiderArrow_1
+  - first:
+      213: -280919678642020429
+    second: guiderArrow_2
+  - first:
+      213: -5723497726837768839
+    second: guiderArrow_3
+  - first:
+      213: 262722070147546580
+    second: guiderArrow_4
+  - first:
+      213: -2373894760687684674
+    second: guiderArrow_5
+  - first:
+      213: 4053452945048374157
+    second: guiderArrow_6
+  - first:
+      213: -8248457383875619965
+    second: guiderArrow_7
+  - first:
+      213: -6969417247480196818
+    second: guiderArrow_8
+  - first:
+      213: -4463341832920665514
+    second: guiderArrow_9
+  - first:
+      213: -7724103467746125768
+    second: guiderArrow_10
+  - first:
+      213: -6786938252984850743
+    second: guiderArrow_11
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 2
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Lumin
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guiderArrow_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2937
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c9d9b3066201970800000000000000
+      internalID: 6291740032507791629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2670
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c938f75d257929820800000000000000
+      internalID: -7892022440189495588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2403
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf10286a09f91cf0800000000000000
+      internalID: -1294855329008245460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2136
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97d341f442d0290b0800000000000000
+      internalID: -173911302743478331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1869
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ddbcc1b45065a300800000000000000
+      internalID: 5151353211200468151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1602
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3bc07ea4b3e0fd0800000000000000
+      internalID: -7190322626880910740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1335
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b8e573af1c04830800000000000000
+      internalID: 779537716753284413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1068
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383552926b7978d80800000000000000
+      internalID: 1127043450517170064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 801
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e21567060f7a74f90800000000000000
+      internalID: -6326935694814326148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 534
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6527f9130460f02c0800000000000000
+      internalID: 8553979105218819658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 267
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83811a4f1d87ec490800000000000000
+      internalID: -4746525037900572933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guiderArrow_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 439
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c6e35e1e93ffc1a0800000000000000
+      internalID: -6786938252984850743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guiderArrow_3: -173911302743478331
+      guiderArrow_9: 8553979105218819658
+      guiderArrow_5: -7190322626880910740
+      guiderArrow_4: 5151353211200468151
+      guiderArrow_7: 1127043450517170064
+      guiderArrow_6: 779537716753284413
+      guiderArrow_8: -6326935694814326148
+      guiderArrow_2: -1294855329008245460
+      guiderArrow_0: 6291740032507791629
+      guiderArrow_1: -7892022440189495588
+      guiderArrow_10: -4746525037900572933
+      guiderArrow_11: -6786938252984850743
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

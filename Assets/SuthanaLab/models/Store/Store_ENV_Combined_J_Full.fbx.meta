@@ -1,0 +1,1101 @@
+fileFormatVersion: 2
+guid: 2945c068b0ecd3d4eb480adaf397b46a
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Activia_Yogurt_Mat
+    second: {fileID: 2100000, guid: 4bc058b43e3d74a43a95aecddd85519c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Almond_Breezy_Mat
+    second: {fileID: 2100000, guid: 7122339d9f2f49b41ac9b94f846c4cbe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Amys_Soup_Mat
+    second: {fileID: 2100000, guid: f0338f87ca0b2c3448dec1c4db9066c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Annies_Soup_Mat
+    second: {fileID: 2100000, guid: d0aa2af852c64bf4191c2b862517ce01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Metal
+    second: {fileID: 2100000, guid: 2de4dd7fdc2dcae409063bc2fe654e0e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bagel_Bites_Mat
+    second: {fileID: 2100000, guid: 0253f7abb4bb44949a1e07f1c54f363d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bagged_Snacks_Frozen_Mat
+    second: {fileID: 2100000, guid: b5141be7ea2995f4e9d5bde8e5e9649b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bagged_Sugar_Mat
+    second: {fileID: 2100000, guid: 61d426fa613be704880c1ad6b07f340c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Baking_Powders_Mat
+    second: {fileID: 2100000, guid: 01bb161d0abea244aa69aa524cde9ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barilla_Long_Mat
+    second: {fileID: 2100000, guid: c215a9789f5463d47892e261ec12299c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barilla_Other_Mat
+    second: {fileID: 2100000, guid: aede0f9309e64f440aadb392955bd07d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Barilla_Short_Mat
+    second: {fileID: 2100000, guid: 00f9e7a9cab4db04dbd201ed6eca7a26, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ben_and_Jerrys_Mat
+    second: {fileID: 2100000, guid: e1e33bdfb4101ea41bd2ecb7cff28f6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bertoli_Sauce_Mat
+    second: {fileID: 2100000, guid: 0c3e3f1b3abca6441a4d78fd424cdcac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Betty_Crocker_Cake_Mix_Delight_Mat
+    second: {fileID: 2100000, guid: 5b01f7ed0abc9314d9c31775308d27c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Betty_Crocker_Cake_Mix_Super_Moist_Mat
+    second: {fileID: 2100000, guid: 25350b487b8871b46aeee503a5ca6950, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Big_Candy_Bags_Mat
+    second: {fileID: 2100000, guid: 1cc2e7d8102d11f4abfa050e691865bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bluebell_Tubs_Mat
+    second: {fileID: 2100000, guid: e9bbe5c876bf80144a81ed363241e612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boundary_Milk_Mat
+    second: {fileID: 2100000, guid: 17741ec379abf0544a747a85cabdb67e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Boxed_Soup_Mat
+    second: {fileID: 2100000, guid: b6c892693102d1246b359c6061c21efd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brownies_Mat
+    second: {fileID: 2100000, guid: 2e6e0d1bb23460c468ab62d74332755a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bryers_Tubs_1_Mat
+    second: {fileID: 2100000, guid: ce469da2cae418146b2087c3f94943a0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Bryers_Tubs_2_Mat
+    second: {fileID: 2100000, guid: 66189564b80a07545923d5f794355a1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Butter_Boxes_Mat
+    second: {fileID: 2100000, guid: fdb01c0179fedef4798a100a696478b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: C2_Milk_Mat
+    second: {fileID: 2100000, guid: b1a2212a7aaac6b419a917c400e91cc1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CH_Sugar_Bag_Mat
+    second: {fileID: 2100000, guid: 748c10f9051fb9c4b9a70915aa42e09c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candles_Mat
+    second: {fileID: 2100000, guid: 302bc19ed881c5e45b1d5c85e2fb9b9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Candles_Packages_Mat
+    second: {fileID: 2100000, guid: be40f9bb723b005438215fcaa88dfc04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canned_Fish_Mat
+    second: {fileID: 2100000, guid: af96706ef13db994b8cd8167624b2991, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canned_Tomatoes_Small_Mat1
+    second: {fileID: 2100000, guid: b163a2ae163b66547a32e52f01f1cccc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canned_Veggies_1_Mat
+    second: {fileID: 2100000, guid: cb8318cf35b81374bb52412888d3a5ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Canned_Veggies_2_Mat
+    second: {fileID: 2100000, guid: f9b6876d5cc935a40bc891da1a7ba8ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cans_Tops_Bottoms
+    second: {fileID: 2100000, guid: dd903304eb9d40a419a048d0a59a4fdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereal_Boxes_Medium_Mat
+    second: {fileID: 2100000, guid: 926724f300967c84fb91360ee76ff321, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereal_Boxes_Small_Mat
+    second: {fileID: 2100000, guid: be5ea3a24ad601c4d968b14667328050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cereal_Boxes_Wide_Mat
+    second: {fileID: 2100000, guid: 5a60a6cccefc02c4faef06836e249c5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cheese_Blocks_Large_Mat
+    second: {fileID: 2100000, guid: 15252031ac70fb342a4f56a16319dd7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cheese_Blocks_Small_Mat
+    second: {fileID: 2100000, guid: 3c12f107caf89a040a137dcf06656b77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cheese_Sticks_Bags_Mat
+    second: {fileID: 2100000, guid: e6b9ae716b83d3743a47019e0a1d370a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chef_Boyardee_Mat
+    second: {fileID: 2100000, guid: 564d8257f12f9f642852e1daa2ca6d19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chef_Boyardee_Microwaveable_Mat
+    second: {fileID: 2100000, guid: 06cb71e4e6c7c204ebc1a136b5bfe713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chibani_Oatmilk_Mat
+    second: {fileID: 2100000, guid: 8e29def900d53e84cbaa4deffb975713, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chips_Ahoy_1_Mat
+    second: {fileID: 2100000, guid: e4e36fa0495ba9b4c89a7a504b309507, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chips_Ahoy_2_Mat
+    second: {fileID: 2100000, guid: af714f80c60d0c14cb44fbe41d9504b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chobani_Yogurt_Mat
+    second: {fileID: 2100000, guid: ea7d3f6274ebdf648943235261d43594, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chocolate_Chips_Mat
+    second: {fileID: 2100000, guid: f2af114aace87a9479df89b0bb61a39a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Classico_Sauce_Mat
+    second: {fileID: 2100000, guid: 04790e9087fd90344beda179d396a3d3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Clear_Plastic_Mat
+    second: {fileID: 2100000, guid: 174bd89300836a84b8887d3358955b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Coffee_Mate_Mat
+    second: {fileID: 2100000, guid: 0c70c5fca4879ee42ac7d0b5f10d67ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cookie_Icing_Mat
+    second: {fileID: 2100000, guid: 9e01c88510b23194eaece4fde81f28d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DC_Cookie_Mix_Mat
+    second: {fileID: 2100000, guid: 7dfe49704d448e04d8727cda1064e71f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DC_Mug_Cakes_Mat
+    second: {fileID: 2100000, guid: 01dfd6a152ffa0747b211205110e8a08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dairy_True_Mat
+    second: {fileID: 2100000, guid: a64d61017096ccd41832df98bc4fc796, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danbells_Dispensed_Soup_Mat
+    second: {fileID: 2100000, guid: 19530249f543b7042a208978436c121b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danbells_Microwave_Bowl_Mat
+    second: {fileID: 2100000, guid: c2a246260aa4b0c4bbaeff6ab9eea9ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Danpbells_Chunky
+    second: {fileID: 2100000, guid: 08f1b1a35baaa0c438ebb2f2e634be14, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: De_Cocco_Pasat
+    second: {fileID: 2100000, guid: ebe2987d93326ba4ca04e6648f7716fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Detty_Cricker_Icing_Tubs_Mat
+    second: {fileID: 2100000, guid: 7738663877fc08b459992b002c9fbbe2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ding_Tarts_Mat
+    second: {fileID: 2100000, guid: 1c55d201cea6b604c968e73fea565a52, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dozen_Eggs_Cardboard_Mat
+    second: {fileID: 2100000, guid: b40227a420adb22478f94520f4bbafab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Drumsticks_Mat
+    second: {fileID: 2100000, guid: 9f2bbb0a1c7868b4e836624026d335e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Duncan_Hines_Cake_Mix_Mat
+    second: {fileID: 2100000, guid: 0b04535d0ac906c449cf6059d43164c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Duncan_Hines_Mug_Cake_Mix
+    second: {fileID: 2100000, guid: aaaaa761519f62345bb8570b550d6560, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Edys_Tubs_1_Mat
+    second: {fileID: 2100000, guid: 5f01bd99c527b5f4fa67619ee3d6d956, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Edys_Tubs_2_mat
+    second: {fileID: 2100000, guid: df2ffeaad0bab5342b5e009755fdb162, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Egg_Substitutes_Mat
+    second: {fileID: 2100000, guid: d8383a810edc56f4c9a8c3e18e840919, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enlightened_Ice_Cream_Mat
+    second: {fileID: 2100000, guid: 8cb505eba6e55f247b9708c2bbd66353, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Extracts_Mat
+    second: {fileID: 2100000, guid: 4ef951028f0283e46953fa21f3edd6d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fake_Sweeteners_Mat
+    second: {fileID: 2100000, guid: 0b2bcdf0cd0a86e4d9b85c1ded47f446, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fiber_Uno_Mat
+    second: {fileID: 2100000, guid: ebdb8d245086f57498c4c01ce95c100a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fillings_Cans_Mat
+    second: {fileID: 2100000, guid: 65e24662e66b53747a6c9f66f839ceba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fish_Packets_Mat
+    second: {fileID: 2100000, guid: edb75e3f4d9ed8a47bf350f06ecc180c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Flour_Alternatives_Mat
+    second: {fileID: 2100000, guid: e8081e2e391a4a04c8cb778a43b5ba72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: FrostedGlass
+    second: {fileID: 2100000, guid: 174bd89300836a84b8887d3358955b34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Eggo
+    second: {fileID: 2100000, guid: 89e7d631bfc82f140b29cfe92cccc2ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fries_Mat
+    second: {fileID: 2100000, guid: 67a7432a44461534d9743142c9c7c292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fruit_Veggies_Row_1_Mat
+    second: {fileID: 2100000, guid: e99063fb80ede4544ad5c5a849ff142f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fruit_Veggies_Row_2_3_Mat
+    second: {fileID: 2100000, guid: e731e44db902d694e8bb620789ba667a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fruit_Veggies_Row_4_Mat
+    second: {fileID: 2100000, guid: 0ced7664356c3a64d8fc9f25b7c8d20e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fruit_Veggies_Row_5_Mat
+    second: {fileID: 2100000, guid: 8f7a01587cc275442aa6bbb8de0f2530, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fruit_Veggies_Row_6_Mat
+    second: {fileID: 2100000, guid: bc0fb084a2dad3c4ba675f441c15b58c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Fruit_Veggies_Row_7_Mat
+    second: {fileID: 2100000, guid: 91a11010dfcfbf7419c24490e9089f1c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Meals_1_Mat
+    second: {fileID: 2100000, guid: 186bf82db413f27458dee2b5f384e927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Meals_3_Mat
+    second: {fileID: 2100000, guid: b5167df7aefbf0a4c9fab2dd93282cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Pizzas_1_Mat
+    second: {fileID: 2100000, guid: 476561983eed6704e865c87a39bfcb64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Pizzas_2_Mat
+    second: {fileID: 2100000, guid: a79c03819faea144db740aa01f33d03b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Snacks_Mat
+    second: {fileID: 2100000, guid: 5e2ed51ef4bf14540b84231979ff68dc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Frozen_Stouffers
+    second: {fileID: 2100000, guid: d8d6fa2941c4a0742adbda7b2ffd1fb4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fruit_Cans_1_Mat
+    second: {fileID: 2100000, guid: 93be4f0b4b87acd4297c42fb83557416, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GG_Bush_Beans_Mat
+    second: {fileID: 2100000, guid: 8f0ccd27644094b499dae4d8ad5574b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GG_Pasta_Mat
+    second: {fileID: 2100000, guid: 4f2c4a51199e74745af4617b33efdbf4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gild_Medal_Flour_Mat
+    second: {fileID: 2100000, guid: 88981ab4972bd4d4189e27bcf7e0ecd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Great_Value_Sauce_Mat
+    second: {fileID: 2100000, guid: d137f9798121c6a49b0a42fa224a4d0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Great_Value_Yogurt
+    second: {fileID: 2100000, guid: 7830e9122f322f04aaea87dba051e85a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haagen_Dazs_Bars_Mat
+    second: {fileID: 2100000, guid: d48faa3f89e9c3447aa3ae060b02776f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Haagen_Dazs_Tubs
+    second: {fileID: 2100000, guid: 79cd2d240b838dd41b8c2bafcd9d410e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Half_Dozen_Eggs_Cardboard_Mat
+    second: {fileID: 2100000, guid: 71dede14200f8794b82dc7f64d2a4c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halo_Top_Bars_Mat
+    second: {fileID: 2100000, guid: 4f1b5a326e28046469e452be9bbf26da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Halo_Top_Tubs_Mat
+    second: {fileID: 2100000, guid: cea3793ec2e1b2247b36cf55a356b898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hersheys_Bars_Mat
+    second: {fileID: 2100000, guid: 4ab15a805a45ea34c9f591f5ee59b665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hooked_Candy_Rows_1_2_Mat
+    second: {fileID: 2100000, guid: b7427144bad5b9d48877c704c7fd65db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hooked_Candy_Rows_3_4_Mat
+    second: {fileID: 2100000, guid: f725a6a2df5145e4882af86883a51eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Hooked_Candy_Rows_5_6_Mat
+    second: {fileID: 2100000, guid: e4cc7f92484206a408161b5b3a2e15ec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jello_L_Mat
+    second: {fileID: 2100000, guid: c5186eb005236de46893132bd3e904f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jello_M_Mat
+    second: {fileID: 2100000, guid: 710b1691e56fd324887cc5e8d5aa2a8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jello_XL_Mat
+    second: {fileID: 2100000, guid: da7217428ad895c45a68767fbeb04c5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jello_XS_Mat
+    second: {fileID: 2100000, guid: 25fe570346a56fd4c9f9561f77c92c6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jenis_Ice_Cream_Mat
+    second: {fileID: 2100000, guid: a33f34a53823fd947af15624e07975b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jimmy_Dean_Frozen_Breakfast
+    second: {fileID: 2100000, guid: c8cceb47bdd45c14d918e815d0c29061, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kettle_and_Fire_Soup_Boxes_Mat
+    second: {fileID: 2100000, guid: f7a234c5f9dacfd45bf9a4b2c36d64a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: King_Arthur_Flour_Mat
+    second: {fileID: 2100000, guid: 0c8703e3606b31846a363458f0bae085, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Klondike_Outshine_Mat
+    second: {fileID: 2100000, guid: aa77ab05fb3b67d4d809505e616659de, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lactoid_Mat
+    second: {fileID: 2100000, guid: 35bb749aec08c3341a08728071e40661, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_Candy_Bags_Mat
+    second: {fileID: 2100000, guid: 872ea8b048c004c48a979ec0f11611c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_Candy_Sharing_bags
+    second: {fileID: 2100000, guid: 63668aa996ee7ab41ba4346ccd2893fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_Canned_Tomatoes_Mat
+    second: {fileID: 2100000, guid: 3418f85eb26fe15419b87320a0cad80f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_Chip_Bags
+    second: {fileID: 2100000, guid: 00a678b280991a843946e59540c8e225, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Large_Popsicple_Mat
+    second: {fileID: 2100000, guid: fff3817824c0b064abc6fa7350241a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lucerna_Tubs_Mat
+    second: {fileID: 2100000, guid: 020f2a4f31512e24ea41af95790fcc55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lucerne_Ice_Cream_Container
+    second: {fileID: 2100000, guid: 4ab30bfbb4f494248beeb3d873ea2a9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lucrena_Milk_Mat
+    second: {fileID: 2100000, guid: 411199095cbc7ec4ba239c36fe4cc4b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_Bags
+    second: {fileID: 2100000, guid: b8790ac263136bc4ab60e40132c31e72, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MM_Boxes
+    second: {fileID: 2100000, guid: c4c72bd856fe986408a6ebd19431fd33, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Metal_Tiling_Mat
+    second: {fileID: 2100000, guid: 9ea2f3de3c264d14289716991d8649d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Magnum_Bars_2_Mat
+    second: {fileID: 2100000, guid: 0470690027e40f14f89c87ec20aba197, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Magnum_Bars_Mat
+    second: {fileID: 2100000, guid: 554dd315889f96c4aa6d7d0a92aaae76, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marie_Calendar_Frozen_Mat
+    second: {fileID: 2100000, guid: 9de17748db941f543849402148221423, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Marshmallows_Mat
+    second: {fileID: 2100000, guid: c5622f19442c81b4589040beb006de3a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milk_Bar_Tub_Mat
+    second: {fileID: 2100000, guid: 40ab1b5954db430429baa15dbd8a3b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milk_Jug_Plastic
+    second: {fileID: 2100000, guid: 249c62e554de7564b8989ec38ec7e2e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milk_Jugs_Labels
+    second: {fileID: 2100000, guid: 4f2ab07647a40cb42aced210753bba9c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Milton_Icing_Tubes
+    second: {fileID: 2100000, guid: 917eb8b33d9e9cc4bb36044f68b490cd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Misc_Canned_Vegetables_Mat
+    second: {fileID: 2100000, guid: 772440859fee85a4bb0df5184ec58b83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Muffin_Mix_Mat
+    second: {fileID: 2100000, guid: 07095995240e8134caf853c947b79c2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Natural_Hills_Mat
+    second: {fileID: 2100000, guid: 229ae20729b0ca444992d52f7e327e56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Non_Stick_Spray_Mat
+    second: {fileID: 2100000, guid: 246fd65afdfa504458cbca067f2e6553, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nryansbury_Icing_Mat
+    second: {fileID: 2100000, guid: e19bbd39fa490ef49964e3ad72c005f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nyansbury_Flour_Mat
+    second: {fileID: 2100000, guid: 0de441f3bd8a77748b76e46c90cbe55c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Nyansbury_Funfetti_Icing_mat
+    second: {fileID: 2100000, guid: 101f04a497d2d71438900959924d922a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oatly_Generic_Bars_Mat
+    second: {fileID: 2100000, guid: c9e3dcc746091dd4dbe2f6d21af9aad0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oatly_Tubs_Mat
+    second: {fileID: 2100000, guid: 6de1ba03087e60540b17f2fdc511537d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oaty_Mat
+    second: {fileID: 2100000, guid: 6f742c20f25ad004987eea9f3b3035be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Olympus_Yogurt
+    second: {fileID: 2100000, guid: 0cc382e3e667c78408e891c6a34ec721, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oreos_Large_Mat
+    second: {fileID: 2100000, guid: 04327ea9b3be74d4483d2f8cc03e3927, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Oreos_Regular_mat
+    second: {fileID: 2100000, guid: 6b2e1538b0507ec47b281645d556796b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pancake_Waffle_Mix_Mat
+    second: {fileID: 2100000, guid: 83971f53d951f0049b1dd9bcff27a20b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Peak_Bars_Mat
+    second: {fileID: 2100000, guid: 7f3973f1d50d20c4ca04062e24ace8fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillsbury_Cake_Mix_Mat
+    second: {fileID: 2100000, guid: 7ae143983500c244a800715e4b69eb1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pillsbury_Funfetti_Mat
+    second: {fileID: 2100000, guid: 7670d1afd2b62a046b93d336fa017c02, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pre_Sliced_Cheese_Mat
+    second: {fileID: 2100000, guid: fe4374ea071eda0499dcdc4e548b0e37, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Prego_Sauce_Mat
+    second: {fileID: 2100000, guid: 0d5faa0df1b3e354895cfa636bf25dea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Progresso_Soup
+    second: {fileID: 2100000, guid: 762d8dac8f766f54f94f960724982d93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pudding_L_Mat
+    second: {fileID: 2100000, guid: 8d8b75207615a734197ae9eaa170ce95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pudding_M
+    second: {fileID: 2100000, guid: 6400f23316daeea46aa83d6d90026e8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pudding_XL_Mat
+    second: {fileID: 2100000, guid: dd68d0ccc8e4b594d8b4d5b91904a6aa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pudding_XS
+    second: {fileID: 2100000, guid: ff49788624d6bc44ba6450e10e27db87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ragu_Sauce_mat
+    second: {fileID: 2100000, guid: cada180bbd6911a46b87a776823f41c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Round_Butter_Containers_Mat
+    second: {fileID: 2100000, guid: a1d3b70d2e4e47e45bfd890d06520b81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Round_Milk_Mat
+    second: {fileID: 2100000, guid: 17e6e526a03589445a91ddcad2765c89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SPAM_Mat
+    second: {fileID: 2100000, guid: 29b3cbb42cc709346a4b36873a2d45a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salas_Mat
+    second: {fileID: 2100000, guid: 28a6885f528ed9148b7c9b2f8983d8c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Salsa_Jars_Labelsq
+    second: {fileID: 2100000, guid: 37808e6777d003546a129c93d04b03ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Shredded_Cheese_Bags
+    second: {fileID: 2100000, guid: 6bb87c5f83528f348ae129ee3302a2b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silky_Milk
+    second: {fileID: 2100000, guid: 92c75958bc173634088497424aa47884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skittle_Boxes_Mat
+    second: {fileID: 2100000, guid: 17697e59123ffdc4c84bf957c4bdc989, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Skittles_Packages_Small_Mat
+    second: {fileID: 2100000, guid: 5807bdf57b25be8458f1181150858394, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sliced_Oranges_Mat
+    second: {fileID: 2100000, guid: 9cccb9993e095f94580234e02bb10ef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sliced_Peaches_Mat
+    second: {fileID: 2100000, guid: 3f616a7aea8533d46be70b2205ed916b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Small_Candy_Sharing_Bags
+    second: {fileID: 2100000, guid: 2d3fda6aac1395b4293f4b18d4fe4e30, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smaller_Chip_Bags
+    second: {fileID: 2100000, guid: 3295a33f00141ce4e99c8811aa5419e3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Soup_Dispensers_Mat
+    second: {fileID: 2100000, guid: 86416bc9e903d3947bed2fc2694483a9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sour_Cream_Mat
+    second: {fileID: 2100000, guid: bca763fd90c27bf4cbab5385e2c3d045, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Space_Oat_Mat
+    second: {fileID: 2100000, guid: fcfad696b2e6eb043b0674c475f8d64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sprinkles_2
+    second: {fileID: 2100000, guid: 89ca2548bdac06d4d859a30553a31a17, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sprinkles_Labels
+    second: {fileID: 2100000, guid: 1ef02f2ad5a05ac48af0f92456916bd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Sprinkles_Mat
+    second: {fileID: 2100000, guid: f30a1c4b8e15e704ab56bf3fee972c50, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stunny_Field_Milk_Mat
+    second: {fileID: 2100000, guid: e2b2f38c96ddb9340b27aefa2722585c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Styrofoam_Dozen
+    second: {fileID: 2100000, guid: 5ce7d01b53b3ef544bacb06ad1766123, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Styrofoam_Half_Dozen_Mat
+    second: {fileID: 2100000, guid: 9b6e9ea326ab40e4b8516930d6f5ef55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Syrup_Bottles_Labels_Mat
+    second: {fileID: 2100000, guid: c6b6bac859da8e44c99903ddab9d7c9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Syrup_Bottles_Plastic_Mat
+    second: {fileID: 2100000, guid: cfab8dfb937c26f489966ff90b61c86f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tasty_Oats_Mat
+    second: {fileID: 2100000, guid: c4b15de7b95a3814ba3d52d365197cd1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tilamook_Skinny_Cow_Sandwiches
+    second: {fileID: 2100000, guid: 126c7af28bb29044184c38a85ed7c8f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Black_Plastic
+    second: {fileID: 2100000, guid: f7c64292ad2dc4a45b92683912e9a11b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Brown_Plastic
+    second: {fileID: 2100000, guid: 88d630d355345d84497aaa4932726fb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Dark_Blue_Plastic
+    second: {fileID: 2100000, guid: 335a636a1e0c3104198af0aea8f6435d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Red_Plastic
+    second: {fileID: 2100000, guid: 2b549035ab1370b49b3382dac7f23897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_White_Metal_Mat
+    second: {fileID: 2100000, guid: 5e7df567e187d3147b36b56b96846603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_White_Plastic_Material
+    second: {fileID: 2100000, guid: e7c2aa9a6587f804ca7d5710d78d522f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Yellow_Plastic
+    second: {fileID: 2100000, guid: 62f39511f5260cb4188eb923cd485dd3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tortellini_Mat
+    second: {fileID: 2100000, guid: c5019daa0d96c544390db2859eacbc56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Uncrustable_Nuggies_Mat
+    second: {fileID: 2100000, guid: b0f7c93abc1fd154d8215ce4bd06771f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Variety_Candy_Bars_Boxes_Mat
+    second: {fileID: 2100000, guid: 35485f7203d1d614c8a78c54861b66b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Variety_Candy_Bars_Mat
+    second: {fileID: 2100000, guid: 97d3d4bf51382584fad97ba62eb78f9f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Writing_Gel_Mat
+    second: {fileID: 2100000, guid: 26ae17adc0a31aa408255b134f3853e6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yasso_Enlightened_Mat
+    second: {fileID: 2100000, guid: bad89b8867145b64d9c1cb8c57f51d6e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yeast_Mat
+    second: {fileID: 2100000, guid: ff2ded50eb4db824598810a4df96ef71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: YogurtTubeBoxes
+    second: {fileID: 2100000, guid: 5edaa3528af109946b97939ea85d98c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Yoylait_Yogurt
+    second: {fileID: 2100000, guid: 3ac84ee9736a8dd44a2e2005dc561a9b, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 60
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

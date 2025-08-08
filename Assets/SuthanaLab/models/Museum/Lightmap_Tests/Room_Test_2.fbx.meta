@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 2250feccb57a8cc4a91a1eb61fc61ab7
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Large_Furniture_A
+    second: {fileID: 2100000, guid: bb16becf80f40954fa1369913c577230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Large_Furniture_B
+    second: {fileID: 2100000, guid: f11f71cd78cd2b740be37aba4453fc46, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Medium_Furniture_A
+    second: {fileID: 2100000, guid: 16a2ac5a816529647b608862af711b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Medium_Furniture_B
+    second: {fileID: 2100000, guid: 331d7581b3e89984191b2a8a77fcdcec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Shell_Chair
+    second: {fileID: 2100000, guid: 61af35770d4d8ad46a12c31ecb78870a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Sitting_Area
+    second: {fileID: 2100000, guid: e6fbe867a7758ac40be0c18059179d8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Small
+    second: {fileID: 2100000, guid: ecf4610fc0b1baa458b069ad82ec90cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Chess_Mat
+    second: {fileID: 2100000, guid: 1620f9098da15614a8fc7d908b7ad60e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Large_Furniture
+    second: {fileID: 2100000, guid: c6a3ed1344e79b74c9da4f31c623ce97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Medium_Furniture
+    second: {fileID: 2100000, guid: fb95ea1cf2469534894eddfc2f74699a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Paintings
+    second: {fileID: 2100000, guid: eb6e1d2ff77f0cb4d978d4fbf5b05966, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Small_Objects
+    second: {fileID: 2100000, guid: 805e123970f725049bc37bbdecf9edd7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Decorated_Walls
+    second: {fileID: 2100000, guid: 0a0f1e21949717b4e84bc5e14268b8a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Enterance_Area
+    second: {fileID: 2100000, guid: 5a048819731701348b45d9be717815b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_Mat
+    second: {fileID: 2100000, guid: 3e121f8b539be0945bcc7137e467c2e7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Tiling
+    second: {fileID: 2100000, guid: a132fbb4eef12f84b9a2175941570303, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MCM_Group_2
+    second: {fileID: 2100000, guid: 05927331fdf46eb4d91053674252a799, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chairs
+    second: {fileID: 2100000, guid: e945f0984715ae64cb35537ba5a68eba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Large_Furniture
+    second: {fileID: 2100000, guid: 9805ac47f6e44474e8c1dc88205bb129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Medium_Furniture
+    second: {fileID: 2100000, guid: 734952d645d36b94a94dea2c51a6c43d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semi_Transparent
+    second: {fileID: 2100000, guid: 66afce36172546445920a464e56228ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_BH_Flat_Leather
+    second: {fileID: 2100000, guid: 105f3874383772745b73ff9bd4a749df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_BH_Metal
+    second: {fileID: 2100000, guid: ff19fb2f4ff751541b63d27e5a9f55f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Black_Metal
+    second: {fileID: 2100000, guid: e3962bb5babec1b44ae7ab8f453aeba3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Gold
+    second: {fileID: 2100000, guid: 8171ab0ea29700a488bcb01266869658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_MCM_Wood
+    second: {fileID: 2100000, guid: b81abe5cadd990446acd89e135d1302f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_M_Metal
+    second: {fileID: 2100000, guid: 2d848de741f9987448e75e49675d8b6b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Walls
+    second: {fileID: 2100000, guid: c435547e393fe9e489935e7d356a3444, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_White_Metal_Mat
+    second: {fileID: 2100000, guid: ee751d58287620f46be9f602d06f0346, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_High_Detail
+    second: {fileID: 2100000, guid: 903eae207d6bf7048a7987be3371dada, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

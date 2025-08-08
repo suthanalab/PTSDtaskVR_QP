@@ -1,0 +1,169 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ratBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: rat_fin
+    m_Weight: 0
+  - m_Path: ratRoot
+    m_Weight: 0
+  - m_Path: ratRoot/hips
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29/joint30
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft/indexLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft/indexLeft/indexTipLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft/littleLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft/littleLeft/littleTipLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft/middleLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarLeft/shoulderLeft/elbowLeft/wristLeft/handLeft/middleLeft/middleTipLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight/indexRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight/indexRight/indexTipRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight/littleRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight/littleRight/littleTipRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight/middleRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/collarRight/shoulderRight/elbowRight/wristRight/handRight/middleRight/middleTipRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck
+    m_Weight: 1
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/jaw
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/jaw/jawTip
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/joint47
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/joint47/earLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/joint47/earLeft/earTipLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/joint47/earRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/joint28/joint29/joint30/joint31/joint32/joint33/neck/head/joint47/earRight/earTipRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/tailRoot
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5/tail6
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5/tail6/tail7
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8/tail9
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8/tail9/tail10
+    m_Weight: 1
+  - m_Path: ratRoot/hips/tailRoot/tail1/tail2/tail3/tail4/tail5/tail6/tail7/tail8/tail9/tail10/tailTip
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/feetLittleLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/feetLittleLeft/feetLittle1Left
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/feetLittleLeft/feetLittle1Left/feetLittle2Left
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/feetMiddleLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/feetMiddleLeft/feetMiddle1Left
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/feetMiddleLeft/feetMiddle1Left/feetMiddle2Left
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/toeLeft
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/toeLeft/toe1Left
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighLeft/kneeLeft/ankleLeft/feetLeft/toeLeft/toe1Left/toe2Left
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/feetLittleRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/feetLittleRight/feetLittle1Right
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/feetLittleRight/feetLittle1Right/feetLittle2Right
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/feetMiddleRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/feetMiddleRight/feetMiddle1Right
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/feetMiddleRight/feetMiddle1Right/feetMiddle2Right
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/toeRight
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/toeRight/toe1Right
+    m_Weight: 0
+  - m_Path: ratRoot/hips/thighRight/kneeRight/ankleRight/feetRight/toeRight/toe1Right/toe2Right
+    m_Weight: 0

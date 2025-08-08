@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 73387ce1bb65c734e9884d87aa41e4f1
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Counter_Area
+    second: {fileID: 2100000, guid: b61ac77552ca00d4eb1fe6bfb350666e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Large_Furniture_A
+    second: {fileID: 2100000, guid: 22f41a47f4641384baac4db623b8b91d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Large_Furniture_B
+    second: {fileID: 2100000, guid: 8682bf2ff10d84f4eb6c44adfb0aaf09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Medium_Furniture_A
+    second: {fileID: 2100000, guid: 2a0197a11451a714c8a5e015cbecd62f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Medium_Furniture_B
+    second: {fileID: 2100000, guid: 82c35f4166969e04e80f39e73b7eedfe, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Pink_Metal
+    second: {fileID: 2100000, guid: d857335c13b677f42b78f4b4a45bc0fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Shell_Chair
+    second: {fileID: 2100000, guid: 4ec8ab7a1ed51f2479209b3164d0ea83, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Sitting_Area
+    second: {fileID: 2100000, guid: 088b6d2ed1fa84344bc41ec99ee4bc81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: AD_Small
+    second: {fileID: 2100000, guid: 6ec89a23256dfd34bafd3805c62103fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Artbooks_Material
+    second: {fileID: 2100000, guid: 4399527ce3a908646a601b683013e645, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Chess_Mat
+    second: {fileID: 2100000, guid: 37b94c742d5e60a40a6cd989ec0f4c44, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Large_Furniture
+    second: {fileID: 2100000, guid: 92b15cbe0fda073408fd8309270bbc7e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Medium_Furniture
+    second: {fileID: 2100000, guid: 2d3cdbb1252ae1040955f70e3e54a28d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BH_Small_Objects
+    second: {fileID: 2100000, guid: 2a2e7ae04a6cca64fbc79a97b517e7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_Tiling
+    second: {fileID: 2100000, guid: d928d00c2dcb5504f925cb5d6a221ffb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Chairs
+    second: {fileID: 2100000, guid: a4d553e80f1e355469a98e0b6e8fcd56, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Large_Furniture
+    second: {fileID: 2100000, guid: f7818e1a02b9c8b46b35a83656326c66, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: M_Medium_Furniture
+    second: {fileID: 2100000, guid: 02fc5e874e5d3e14e8e07b83f1ea3515, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Plain_Walls_Mat
+    second: {fileID: 2100000, guid: dacf40a1c374abd49ac6cc66aa8b5898, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Semi_Transparent
+    second: {fileID: 2100000, guid: 51780b5879db35c4ab4f29f6ad6208e1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_BH_Flat_Leather
+    second: {fileID: 2100000, guid: 614b69c5eccb1ac469a13d053e572cda, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_BH_Metal
+    second: {fileID: 2100000, guid: 85785957c9340524fb81dababff9682b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Black_Metal
+    second: {fileID: 2100000, guid: 1357a58fbd095d5428c99dd41f10113f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Dirt
+    second: {fileID: 2100000, guid: a08006fb8df2c79489f10700a4fba1b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Gold
+    second: {fileID: 2100000, guid: 86acaa42e0eb38c4598a8630d0a4cf8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_MCM_Wood
+    second: {fileID: 2100000, guid: e7e33c6f2ce212d4299db915620d0ad5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_M_Metal
+    second: {fileID: 2100000, guid: b63f17e6dbacfc243adfb9292406303f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Old_Metal
+    second: {fileID: 2100000, guid: dbd56c408ac52544b87dff49e734fc87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_Terracotta
+    second: {fileID: 2100000, guid: 9a0bf590e1729de46b620649d5164737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_White_Metal_Mat
+    second: {fileID: 2100000, guid: 03e031183b4459b4ab8f3d495fe6677d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tiling_White_Plastic
+    second: {fileID: 2100000, guid: 85d9009d0648c504384cba4fa0181c8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Vases_Mat
+    second: {fileID: 2100000, guid: 44eecb74a31a86f42afca0b29db08737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Circles_
+    second: {fileID: 2100000, guid: f18bf40b297220741b47ac2f6fb51cfd, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
