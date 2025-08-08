@@ -935,6 +935,16 @@ public class FearTaskManager : MonoBehaviour
             if(!corridorclear && waiting4incorridor) {
                 Debug.Log("<color=orange>Stimpos " + stim_i + " skipped </color>");
                 stim_i++;
+				if (taskphase == taskphases.acquisition)
+                {
+                    if(stim_i>=acqStimpos.Count)
+						stim_i=0;
+                }
+                else if (taskphase == taskphases.extinction)
+                {
+					if(stim_i>=extStimpos.Count)
+						stim_i=0;
+                }				
                 corridorclear = true;
             }
         }    
