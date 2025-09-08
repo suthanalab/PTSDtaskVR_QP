@@ -1,7 +1,7 @@
 PTSD_VR Project    Unity version: 2021.3.13f1
--------------------------------------------------------------
-config file is under Assets/StreamingAssets folder
--------------------------------------------------------------
+
+	config file is under Assets/StreamingAssets folder
+
 		taskday controls task:
         (1)  day 1 - habituation, acquisition and questions
         rest
@@ -76,10 +76,11 @@ How to install PTSD_VR
 	b. PTSDtaskVR_QP\Assets\SuthanaLab\scenes\pilotSpidersPC.unity
 8. Click on the Play button on the top center of the Unity editor window. If the headset is linked properly, the task should launch automatically in the headset. If the headset is not linked, the project can still be run in debug mode.
 
-Enabling eyetracking data (only works with a Meta Quest Pro, otherwise the task also works on Quest 2 or Quest 3)
+Enabling eyetracking data 
+(only works with a Meta Quest Pro, otherwise the task also works on Quest 2 or Quest 3)
 
-1.The meta account being used needs to be a developer account. Follow the instructions on https://developers.facebook.com/docs/development/register/
-2.On the Meta Quest Link PC app, being a developer unlocks the Beta tab
-3.Enable Developer Runtime Features
-4.Enable Eye Tracking over Meta Quest Link
+1. The meta account being used needs to be a developer account. Follow the instructions on https://developers.facebook.com/docs/development/register/
+2. On the Meta Quest Link PC app, being a developer unlocks the Beta tab
+3. Enable Developer Runtime Features
+4. Enable Eye Tracking over Meta Quest Link
 ![Meta Quest Link app Beta tab](metaappBetaTab.jpg "Meta Quest Link app Beta tab")
