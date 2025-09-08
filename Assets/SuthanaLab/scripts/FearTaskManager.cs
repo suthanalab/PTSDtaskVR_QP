@@ -220,7 +220,7 @@ public class FearTaskManager : MonoBehaviour
         habitstate = habituates.notransition;
         fear_i = -1;
         joyWalker = headTransform.GetComponentInParent<JoyWalker>();
-        joyWalker.enabled = false;
+        //joyWalker.enabled = false;
         spicker = GetComponent<StimPicker>();
         aplacer = GetComponent<AutoPlacer>();
 
