@@ -71,9 +71,9 @@ How to install PTSD_VR
 4. Find and select the ROOT folder of the project. Note that the root folder is the one that contains the Assets, Packaging, and ProjectSettings folders. Sometimes the extracted folder is one level above the root, and it only contains the actual root folder INSIDE of it.
 5. The project should now show up in the Project page of Unity Hub. Under Editor Version, follow the on-screen instructions to install version 2021.3.13f1.
 6. Click on the project once (no double-click) when the installation is complete.
-7. When the project opens, navigate to the desired scene (a. for Headset, b. for PC): 
-	a. PTSDtaskVR_QP\Assets\SuthanaLab\scenes\pilotSpiders.unity
-	b. PTSDtaskVR_QP\Assets\SuthanaLab\scenes\pilotSpidersPC.unity
+7. When the project opens, navigate to the desired scene (a: for Headset, b: for PC): 
+	7. a: PTSDtaskVR_QP\Assets\SuthanaLab\scenes\pilotSpiders.unity
+	7. b: PTSDtaskVR_QP\Assets\SuthanaLab\scenes\pilotSpidersPC.unity
 8. Click on the Play button on the top center of the Unity editor window. If the headset is linked properly, the task should launch automatically in the headset. If the headset is not linked, the project can still be run in debug mode.
 
 Enabling eyetracking data 
